@@ -31,12 +31,15 @@ h2{
 h3{
     border-bottom: 3px solid turquoise;
     font-family: 'Ubuntu Condensed', sans-serif;
-    width: 200px
+    width: 300px;
+    padding-left: 10px;
 }
 p, h3{
     margin-left: 7px;
     margin-right: 25px;
 }
+
+
 /* Menu */
 ul {
     list-style-type: none;
